@@ -1,1 +1,1 @@
-# Guessing gamels
+# Guessing games
