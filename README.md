@@ -1,3 +1,3 @@
 # Guessing games
 
-- Practices Rust game
+- Practices Rust games
